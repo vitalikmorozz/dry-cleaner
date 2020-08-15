@@ -2,7 +2,17 @@
 
 ## Overview
 
-Backend build with NestJS/Typescript
+Backend build with:
+
+-   NestJS
+-   Typescript
+
+Frontend build with:
+
+-   React Native
+-   React Navigation
+
+Cloud file storage - AWS S3
 
 ## Features
 
